@@ -1,0 +1,15 @@
+<html>
+<body>
+<h1>Product Review - Amazing Laptop!</h1>
+
+I bought this laptop from https://techstore.com for $1,299.99 and it's AMAZING!!! 😍
+
+Contact the seller at sales@techstore.com or call (800) 555-0123.
+
+The café's WiFi works perfectly. Rating: 5/5 stars ⭐⭐⭐⭐⭐
+
+Check out www.reviews.com for more info.
+
+#BestLaptop #TechReview @TechStore
+</body>
+</html>
