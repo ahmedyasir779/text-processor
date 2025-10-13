@@ -191,24 +191,3 @@ class TextCleaner:
         return self
 
 
-if __name__ == "__main__":
-    print("TESTING WITH FILE")
-    print("=" * 60)
-
-    with open('data/sample_text.txt', 'r') as f:
-        file_text = f.read()
-
-    cleaner2 = TextCleaner(file_text)
-    cleaned2 = (cleaner2
-                .remove_html_tags()
-                .remove_urls()
-                .remove_emails()
-                .remove_phone_numbers()
-                .remove_numbers()
-                .remove_special_characters()
-                .normalize_whitespace()
-                .to_lowercase()
-                .get_cleaned_text())
-
-    print("\nCleaned file text:")
-    print(cleaned2)
