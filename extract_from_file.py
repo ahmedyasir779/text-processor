@@ -2,14 +2,14 @@ from info_extractor import InfoExtractor
 
 # Sample resume text
 resume_text = """
-AHMED AL-HASSAN
-Software Engineer
+AHMED YASIR
+AI/ML Engineer
 
 Contact:
-Email: ahmed.hassan@email.com
+Email: ahmed.yasir@email.com
 Phone: +966-50-123-4567
-LinkedIn: https://linkedin.com/in/ahmed-hassan
-GitHub: https://github.com/ahmed-hassan
+LinkedIn: https://www.linkedin.com/in/ahmed-yasir-907561206/
+GitHub: https://github.com/ahmedyasir779
 
 EXPERIENCE:
 
