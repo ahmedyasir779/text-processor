@@ -28,6 +28,8 @@ Pygments==2.19.2
 regex==2025.9.18
 requests==2.32.5
 rich==14.2.0
+scikit-learn==1.7.2
+scipy==1.16.2
 setuptools==80.9.0
 shellingham==1.5.4
 smart_open==7.3.1
@@ -36,6 +38,7 @@ spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 srsly==2.5.1
 thinc==8.3.6
+threadpoolctl==3.6.0
 tqdm==4.67.1
 typer==0.19.2
 typing-inspection==0.4.2
